@@ -49,10 +49,13 @@
 
 &nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoexe&show_icons=true&locale=en&layout=compact" alt="raoexe" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=raoexe&show_icons=true&locale=en&theme=synthwave" alt="raoexe" /></p>
+<p align ="center">  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raoexe&show_icons=true&locale=en&layout=compact" alt="raoexe" /></p>
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raoexe&" alt="raoexe" /></p>
+<p align ="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=raoexe&show_icons=true&locale=en&theme=synthwave" alt="raoexe" /></p>
+
+&nbsp;
+
+nbsp;
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raoexe&" alt="raoexe" /></p>
