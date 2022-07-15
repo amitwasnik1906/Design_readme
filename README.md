@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Profile%20views&color=0e75b6&style=flat" alt="raoexe" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe" alt="raoexe" /></a> </p>
+<p padding="20px" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe" alt="raoexe" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/prof_pro7on" target="blank"><img src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge" alt="prof_pro7on" /></a> </p>
 
