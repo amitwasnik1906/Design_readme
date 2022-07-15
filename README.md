@@ -7,14 +7,18 @@
 
 &nbsp;
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=juicyfresh&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
 
 &nbsp; 
 
+
+<div style="margin: 30px;">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=for-the-badge" alt="raoexe" /> </p>
 
-
 <p align="right"> <a href="https://twitter.com/prof_pro7on" target="blank"><img src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge&color=orange" alt="prof_pro7on" /></a> </p>
+
+</div>
+
 
 - 🌱 I’m currently learning **Android Development and NodeJs**
 
