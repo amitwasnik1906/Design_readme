@@ -5,7 +5,7 @@
 
 <p align = "centre"> <a href="https://app.daily.dev/RAOdotEXE"><img src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Profile%20views&color=0e75b6&style=flat" alt="raoexe" /> </p>
+<p align="left"> <img align="centre" src="https://komarev.com/ghpvc/?username=raoexe&label=Profile%20views&color=0e75b6&style=flat" alt="raoexe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe" alt="raoexe" /></a> </p>
 
