@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey! Myself RAO, Daulatrao (PRO7ON) Patil.</h1>
+<h1 align="center">Hi! Myself RAO, Daulatrao (PRO7ON) Patil.</h1>
 <h3 align="center">A Cyber Security and Open Source enthusiast.</h3>
 
 <p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
