@@ -5,11 +5,11 @@
 
 <p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Profile%20views&color=0e75b6&style=flat" alt="raoexe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=plastic" alt="raoexe" /> </p>
 
 <div style="margin-right: 30px;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=juicyfresh&margin-h=15&column=3&no-bg=false" alt="raoexe" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=juicyfresh&margin-h=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
 
 </div>
 
