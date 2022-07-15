@@ -53,9 +53,9 @@
 
 &nbsp;
 
-<p align ="center"><img align="right" src="https://github-readme-stats.vercel.app/api?username=raoexe&show_icons=true&locale=en&theme=synthwave" alt="raoexe" /></p>
+<p align ="center"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=raoexe&show_icons=true&locale=en&theme=synthwave" alt="raoexe" /></p>
 
 &nbsp;
 
-nbsp;
+&nbsp;
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raoexe&" alt="raoexe" /></p>
