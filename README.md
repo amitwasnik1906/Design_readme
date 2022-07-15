@@ -5,15 +5,16 @@
 
 <p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=plastic" alt="raoexe" /> </p>
-
-<div style="margin-right: 30px;">
+<div style="margin-right: 50px;">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=juicyfresh&margin-h=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
 
 </div>
 
-<p align="left"> <a href="https://twitter.com/prof_pro7on" target="blank"><img src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge" alt="prof_pro7on" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=for-the-badge" alt="raoexe" /> </p>
+
+
+<p align="right"> <a href="https://twitter.com/prof_pro7on" target="blank"><img src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge&color=orange" alt="prof_pro7on" /></a> </p>
 
 - 🌱 I’m currently learning **Android Development and NodeJs**
 
