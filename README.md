@@ -1,6 +1,9 @@
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
-<h1 align="center">Hey there! Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
+<h1 align="center">I'm Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
 <h3 align="center">A Cyber Security and Open Source Enthusiast </h3>
 
 <p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
