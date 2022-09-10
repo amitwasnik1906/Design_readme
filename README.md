@@ -59,4 +59,8 @@
 
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raoexe&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raoexe" /></p>
 
-<p align ="center">[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&redirect=true)</p>
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false" /></div>  
+
+<br/>  
