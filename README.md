@@ -8,6 +8,7 @@
 
 <p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
 
+
 &nbsp;
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
@@ -63,6 +64,10 @@
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raoexe&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raoexe" /></p>
 
 <br/>  
+
+[![@pro7on's Holopin board](https://holopin.io/api/user/board?user=pro7on)](https://holopin.io/@pro7on)
+
+<br />
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false" /></div>  
 
