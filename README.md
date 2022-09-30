@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/RAOexe/RAOexe/blob/main/banner1.svg.svg" align="center" style="width: 100%" />
 </div>  
 
 <h1 align="center">I'm Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
