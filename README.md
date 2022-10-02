@@ -63,6 +63,11 @@
 
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raoexe&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raoexe" /></p>
 
+<br/>
+<a href="https://github.com/RAOexe"><img alt="RAOexe's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=RAOexe&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a>
+
+
 <br/>  
 
 [![@pro7on's Holopin board](https://holopin.io/api/user/board?user=pro7on)](https://holopin.io/@pro7on)
