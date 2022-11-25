@@ -29,7 +29,7 @@
 
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=for-the-badge" alt="raoexe" /> </p>
 
-<p><a align="right"href="https://twitter.com/prof_pro7on" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge&color=orange" alt="prof_pro7on" /></a> </p>
+<p><a align="right"href="https://twitter.com/pro7on_" target="blank"><img align="right" src="https://img.shields.io/twitter/follow/prof_pro7on?logo=twitter&style=for-the-badge&color=orange" alt="prof_pro7on" /></a> </p>
 
 &nbsp;
 
