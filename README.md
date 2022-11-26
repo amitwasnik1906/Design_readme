@@ -65,7 +65,7 @@
 
 <br/>
 <a href="https://github.com/RAOdotSH"><img alt="RAOsh's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=RAOexe&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a>
+    src="https://activity-graph.herokuapp.com/graph?username=RAOdotSH&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/>  
