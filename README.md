@@ -61,7 +61,7 @@
 
 &nbsp;
 
-<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raoexe&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raoexe" /></p>
+<p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raodotsh&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raoexe" /></p>
 
 <br/>
 <a href="https://github.com/RAOexe"><img alt="RAOexe's Activity Graph"
