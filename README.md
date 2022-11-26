@@ -6,7 +6,12 @@
 <h1 align="center">I'm Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
 <h3 align="center">A Cyber Security and Open Source Enthusiast </h3>
 
-<p align = "center"> <a href="https://app.daily.dev/RAOdotEXE"><img align="center" src="https://github.com/RAOexe/RAOexe/blob/main/devcard.svg" width="400" alt="RAO.exe's Dev Card"/></a> </p>
+<!-- Dev Card -->
+<p align = "center"> 
+    <a href="https://app.daily.dev/RAOdotSH"><img src="https://api.daily.dev/devcards/69c9786a75cb4b8e93921cd74986f178.png?r=3ue" width="400" alt="RAO.sh's Dev Card"/>
+    </a> 
+</p>
+
 
 
 &nbsp;
