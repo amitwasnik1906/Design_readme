@@ -58,7 +58,9 @@
 
 &nbsp;
 
-<p align ="center"> <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PRO7ON.png" alt="RAOsh's TryHackMe" /> </p>
+<!-- <p align ="center"> <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PRO7ON.png" alt="RAOsh's TryHackMe" /> </p> -->
+
+![tryhackme stats](https://raw.githubusercontent.com/PRO7ON/PRO7ON/master/assets/thm_propic.png)
 
 &nbsp;
 
