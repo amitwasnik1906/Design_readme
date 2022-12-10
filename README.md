@@ -58,6 +58,10 @@
 
 &nbsp;
 
+<p align ="center"> <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/PRO7ON.png" alt="RAOsh's TryHackMe" /> </p>
+
+&nbsp;
+
 <p align ="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raodotsh&show_icons=true&locale=en&layout=compact" alt="raodotsh" /></p>
 
 &nbsp;
@@ -69,11 +73,14 @@
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raodotsh&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=FF00CC&fire=CE00FF&currStreakNum=CC00FF&currStreakLabel=FFFFFF&sideNums=FF00B3&ring=FF00C4" alt="raodotsh" /></p>
 
 <br/>
-<a href="https://github.com/RAOdotSH"><img alt="RAOsh's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=RAOdotSH&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a>
-
+<!-- <a href="https://github.com/RAOdotSH"><img alt="RAOsh's Activity Graph"
+    src="https://activity-graph.herokuapp.com/graph?username=RAOdotSH&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a> -->
+    
+[![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAOdotSH&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
+
+<!-- <script src="https://tryhackme.com/badge/575563"></script> -->
 
 [![@pro7on's Holopin board](https://holopin.io/api/user/board?user=pro7on)](https://holopin.io/@pro7on)
 
