@@ -25,6 +25,8 @@
 
 <br/>
 
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/RAO.exe.svg)](https://codeforces.com/profile/RAO.exe)
+
 &nbsp;
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
