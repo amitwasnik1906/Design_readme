@@ -1,7 +1,7 @@
 
 <div align="center">
 <img src="https://github.com/RAOexe/RAOexe/blob/main/banner1.svg.svg" align="center" style="width: 100%" />
-</div>  
+</div>
 
 <h1 align="center">I'm Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
 <h3 align="center">A Cyber Security and Open Source Enthusiast </h3>
@@ -12,7 +12,11 @@
     </a> 
 </p>
 
+<br/>
 
+<div align="left"> <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="100" height="100" > </div>
+
+<br/>
 
 &nbsp;
 
@@ -80,7 +84,8 @@
     
 [![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAOdotSH&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>  
+<br/>
+
 
 <!-- <script src="https://tryhackme.com/badge/575563"></script> -->
 
@@ -88,6 +93,6 @@
 
 <br />
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false" /></div>  
+<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false" /></div>  
 
-<br/>  
+<br/>
