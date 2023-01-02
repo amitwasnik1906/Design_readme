@@ -14,7 +14,14 @@
 
 <br/>
 
-<div align="left"> <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" width="100" height="100" > </div>
+<!-- <div align="left"> <img src="" width="100" height="100" > </div> -->
+<h3 align="center">Few Achievements</h3>
+<p align="left">
+<!-- 100 Days Batch 2022 -->
+<a href="https://leetcode.com/RAOdotEXE/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="rao" height="100" width="100" /></a>
+<!-- Data Structure I Badge -->
+<a href="https://leetcode.com/RAOdotEXE/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="prof_pro7on" height="100" width="100" /></a>
+</p>
 
 <br/>
 
