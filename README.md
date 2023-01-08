@@ -95,12 +95,17 @@
 
 <br/>
 
+<div align="center"> <h3> Latest Tweet </h3> </div>
+<div align="center"><a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=PRO7ON_&theme=synthwave&response=true&border=true&time=true&icon=thunder"/></a> </div>
+
+<br/>
+<br/>
 
 <!-- <script src="https://tryhackme.com/badge/575563"></script> -->
 
 [![@pro7on's Holopin board](https://holopin.io/api/user/board?user=pro7on)](https://holopin.io/@pro7on)
 
-<br />
+<br/>
 
 <div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&bar_color=ff00dd&bar_color_cover=false" /></div>  
 
