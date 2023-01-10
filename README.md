@@ -25,11 +25,11 @@
 
 <br/>
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/RAO.exe.svg)](https://codeforces.com/profile/RAO.exe)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/RAO.sh.svg)](https://codeforces.com/profile/RAO.sh)
 
 &nbsp;
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raoexe&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raodotsh&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
 
 &nbsp; 
 
@@ -59,8 +59,8 @@
 <a href="https://instagram.com/prof_pro7on/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prof_pro7on/" height="30" width="40" /></a>
 <a href="https://dribbble.com/pro7on" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pro7on" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rao_73" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rao_73" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rao.exe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rao.exe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raodotexe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raodotexe" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/rao.sh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rao.exe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raodotsh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raodotexe" height="30" width="40" /></a>
 <a href="https://discord.gg/DsHGSEwJ8d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DsHGSEwJ8d" height="30" width="40" /></a>
 </p>
 
