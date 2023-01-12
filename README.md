@@ -77,11 +77,11 @@
 
 &nbsp;
 
-<p align ="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raodotsh&show_icons=true&locale=en&layout=compact" alt="raodotsh" /></p>
+<p align ="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAOdotSH&show_icons=true&locale=en&layout=compact" alt="raodotsh" /></p>
 
 &nbsp;
 
-<p align ="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=raodotsh&show_icons=true&locale=en&theme=synthwave" alt="raodotsh" /></p>
+<p align ="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RAOdotSH&show_icons=true&locale=en&theme=synthwave" alt="raodotsh" /></p>
 
 &nbsp;
 
