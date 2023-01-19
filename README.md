@@ -118,7 +118,12 @@
 
 <br/>
 
-<div align="center"> <h3> Latest Tweet </h3> </div>
+<!-- <div align="center"> <h3> Latest Tweet </h3> </div> -->
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=1400&height=75&lines=Designing+and+gaming%2C+two+of+my+favorite+things%2C+check+out+my+latest+tweet+for+my+take+on+it." alt="Typing SVG" />
+</div>
+
 <div align="center"><a href="https://twitter.com/PRO7ON_"><img src="https://gtce.itsvg.in/api?username=PRO7ON_&theme=synthwave&response=true&border=true&time=true&icon=thunder" width="50%"/></a> </div>
 
 <br/>
