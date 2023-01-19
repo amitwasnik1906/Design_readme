@@ -30,8 +30,11 @@
 
 <br/>
 
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/RAO.sh.svg)](https://codeforces.com/profile/RAO.sh)
+<p align="center">
+    <a href="https://codeforces.com/profile/RAO.sh" target="_blank"><img align="center" src="https://badges.joonhyung.xyz/codeforces/RAO.sh.svg" alt="prof_pro7on" /></a>
+<a href="https://github-readme-stackoverflow.vercel.app/?userID=20404208&layout=compact&theme=dark"> <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=20404208&layout=compact&theme=dark" /> </a>
 
+</p>
 &nbsp;
 
 <div align="center">
