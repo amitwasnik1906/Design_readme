@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=RAOdotSH&data=followers,repositories,stars,commits&theme=darkmode" align="center" style="width: 100%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=RAOdotSH&data=followers,repositories,stars,commits&theme=laser" align="center" style="width: 100%" />
 </div>
 
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RAOdotSH&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox) -->
