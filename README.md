@@ -15,7 +15,10 @@
 <br/>
 
 <!-- <div align="left"> <img src="" width="100" height="100" > </div> -->
-<h3 align="center">Few Achievements</h3>
+<!-- <h3 align="center">Few Achievements</h3> -->
+<div align="center">
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=435&lines=Few+Achievements" alt="Typing SVG" /></a>
+</div>
 <p align="left">
 <!-- 100 Days Batch 2022 -->
 <a href="https://leetcode.com/RAOdotEXE/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="rao" height="100" width="100" /></a>
