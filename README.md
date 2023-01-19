@@ -34,6 +34,10 @@
 
 &nbsp;
 
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=475&height=75&lines=GitHub+Trophies" alt="Typing SVG" />
+</div>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raodotsh&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
 
 &nbsp; 
