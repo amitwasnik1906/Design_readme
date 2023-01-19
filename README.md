@@ -1,7 +1,9 @@
 
 <div align="center">
-<img src="https://github.com/RAOexe/RAOexe/blob/main/banner1.svg.svg" align="center" style="width: 100%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=RAOdotSH&data=followers,repositories,stars,commits&theme=darkmode" align="center" style="width: 100%" />
 </div>
+
+<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=RAOdotSH&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox) -->
 
 <h1 align="center">I'm Daulatrao (PRO7ON) Patil <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  </h1>
 <h3 align="center">A Cyber Security and Open Source Enthusiast </h3>
