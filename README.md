@@ -59,9 +59,13 @@
 <p><a align="right"href="https://twitter.com/PRO7ON_" target="_blank"><img align="right" src="https://img.shields.io/twitter/follow/pro7on_?logo=twitter&style=for-the-badge&color=orange" alt="PRO7ON_" /></a> </p>
 
 &nbsp;
+&nbsp;
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- <h3 align="left">Connect with me:</h3> -->
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=1000&height=75&lines=Connect+with+me+and+let's+make+design%2C+security+and+Linux+work+together+in+harmony." alt="Typing SVG" />
+</div>
+<p align="center">
 <a href="https://dev.to/rao" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rao" height="30" width="40" /></a>
 <a href="https://twitter.com/prof_pro7on" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prof_pro7on" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daulatrao-patil" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daulatrao-patil" height="30" width="40" /></a>
@@ -73,6 +77,7 @@
 <a href="https://discord.gg/DsHGSEwJ8d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DsHGSEwJ8d" height="30" width="40" /></a>
 </p>
 
+&nbsp;
 &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
