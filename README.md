@@ -98,7 +98,7 @@
 <br/>
 
 <div align="center"> <h3> Latest Tweet </h3> </div>
-<div align="center"><a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=PRO7ON_&theme=synthwave&response=true&border=true&time=true&icon=thunder"/></a> </div>
+<div align="center"><a href="https://twitter.com/PRO7ON_"><img src="https://gtce.itsvg.in/api?username=PRO7ON_&theme=synthwave&response=true&border=true&time=true&icon=thunder" width="50%"/></a> </div>
 
 <br/>
 <br/>
