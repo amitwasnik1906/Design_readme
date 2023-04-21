@@ -61,7 +61,7 @@
 
 <p> <img align="left" src="https://komarev.com/ghpvc/?username=raoexe&label=Noticed%20By&color=orange&style=for-the-badge" alt="raosh" /> </p>
 
-<p><a align="right"href="https://twitter.com/PRO7ON_" target="_blank"><img align="right" src="https://img.shields.io/twitter/follow/PRO7ON_?logo=twitter&style=for-the-badge&color=orange" alt="PRO7ON_" /></a> </p>
+<p><a align="right"href="https://twitter.com/PRO7ON_"><img align="right" target="_blank" src="https://img.shields.io/twitter/follow/PRO7ON_?logo=twitter&style=for-the-badge&color=orange" alt="PRO7ON_" /></a> </p>
 
 &nbsp;
 &nbsp;
