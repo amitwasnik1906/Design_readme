@@ -23,9 +23,9 @@
 </div>
 <p align="left">
 <!-- 100 Days Batch 2022 -->
-<a href="https://leetcode.com/RAOdotEXE/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="rao" height="100" width="100" /></a>
+<a href="https://leetcode.com/RAOdotSH/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="rao" height="100" width="100" /></a>
 <!-- Data Structure I Badge -->
-<a href="https://leetcode.com/RAOdotEXE/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="prof_pro7on" height="100" width="100" /></a>
+<a href="https://leetcode.com/RAOdotSH/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="prof_pro7on" height="100" width="100" /></a>
 <!-- Dev.to Badge -->
 <a href="dev.to/rao" target="_blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png" alt="rao" height="100" width="100"/></a>
 </p>
