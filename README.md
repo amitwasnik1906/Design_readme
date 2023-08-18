@@ -119,7 +119,7 @@
 <!-- <a href="https://github.com/RAOdotSH"><img alt="RAOsh's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=RAOdotSH&bg_color=0D1117&color=FF10F0&line=FF10F0&point=FFFFFF&hide_border=true" /></a> -->
     
-[![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAOdotSH&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![RAOsh's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=RAOdotSH&bg_color=0d1117&color=ff10f0&line=ff00ae&point=ffffff&area=true&hide_border=true)]
 
 <br/>
 
