@@ -144,6 +144,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=32&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=1400&height=75&lines=Let+the+music+speak+for+itself%2C+check+out+my+current+jam+on+Spotify." alt="Typing SVG" />
 </div>
 
-[![https://spotify-github-profile.vercel.app/api/view.svg?uid=317v57nhlsaib2efidalbdvs3onq&redirect=true] [https://spotify-github-profile.vercel.app/api/view.svg?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true]]()
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ff0095&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=317v57nhlsaib2efidalbdvs3onq&redirect=true)
 
 <br/>
