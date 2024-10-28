@@ -43,7 +43,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=34&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=475&height=75&lines=GitHub+Trophies" alt="Typing SVG" />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raodotsh&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="raoexe" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavg1203&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="ULTRA彡PG" /></a> </p>
+
+
 
 &nbsp; 
 
@@ -105,11 +107,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=EC00F7&background=FF18F200&center=true&vCenter=true&width=1100&height=75&lines=I+may+be+small+but+my+commits+speak+volumes%2C+check+out+my+GitHub+stats." alt="Typing SVG" />
 </div>
 
-<p align ="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAOdotSH&show_icons=true&locale=en&layout=compact" alt="raodotsh" /></p>
+<p align ="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavg1203&show_icons=true&locale=en&layout=compact" alt="raodotsh" /></p>
 
 &nbsp;
 
-<p align ="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=RAOdotSH&show_icons=true&locale=en&theme=synthwave" alt="raodotsh" /></p>
+<p align ="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavg1203&show_icons=true&locale=en&theme=synthwave" alt="raodotsh" /></p>
 
 &nbsp;
 
